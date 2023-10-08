@@ -1,0 +1,55 @@
+please check the list for any applications you do not recognise
+Total number of applications: 52
+
+/Applications/Visual Studio Code.app
+/Applications/CleanMyMac X.app
+/Applications/ProtonVPN.app
+/Applications/Fig.app
+/Applications/CAI
+/Applications/.DS_Store
+/Applications/Termius.app
+/Applications/Keka.app
+/Applications/Google Chrome.app
+/Applications/Numbers.app
+/Applications/MAMP
+/Applications/VoiceAI.app
+/Applications/.localized
+/Applications/TestFlight.app
+/Applications/Parallels Desktop.app
+/Applications/MAMP PRO.app
+/Applications/Xcode.app
+/Applications/Adobe Creative Cloud
+/Applications/Microsoft Remote Desktop.app
+/Applications/Free Download Manager.app
+/Applications/iMovie.app
+/Applications/DBeaver.app
+/Applications/Docker.app
+/Applications/Safari.app
+/Applications/Utilities
+/Applications/Blender.app
+/Applications/WebStorm.app
+/Applications/GitHub Desktop.app
+/Applications/IntelliJ IDEA.app
+/Applications/Adobe Illustrator 2023
+/Applications/Keynote.app
+/Applications/Maxon Cinema 4D R25
+/Applications/Adobe Media Encoder 2022
+/Applications/Brave Browser.app
+/Applications/Adobe Photoshop (Beta)
+/Applications/Pages.app
+/Applications/GarageBand.app
+/Applications/Insomnia.app
+/Applications/Microsoft Edge.app
+/Applications/Elmedia Video Player.app
+/Applications/Final Cut Pro.app
+/Applications/Adobe Photoshop 2023
+/Applications/Android Studio.app
+/Applications/Firefox.app
+/Applications/Adobe Audition 2022
+/Applications/Postman.app
+/Applications/WhatsApp.localized
+/Applications/JetBrains Toolbox.app
+/Applications/Twitter.app
+/Applications/Discord.app
+/Applications/Adobe After Effects 2022
+/Applications/MongoDB Compass.app
