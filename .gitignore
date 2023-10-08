@@ -3,6 +3,8 @@
 /target
 ./target
 
+apps_list.txt
+
 
 
 .env
